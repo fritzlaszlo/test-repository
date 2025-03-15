@@ -7,6 +7,7 @@ This is a small test repository containing a simple bash script that displays AS
 - `.gitignore`: Standard gitignore file for common patterns
 - `ascii_art.sh`: Bash script that displays ASCII art
 - `README.md`: This file
+- `LICENSE`: WTFPL license file
 
 ## How to Use
 
@@ -36,4 +37,4 @@ Feel free to modify the ASCII art in the `ascii_art.sh` file to display differen
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE). 
+This project is licensed under the [WTFPL (Do What The F*** You Want To Public License)](LICENSE), which means you can do whatever you want with this code. 
